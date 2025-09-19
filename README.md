@@ -3,7 +3,9 @@
 <h1 align="center">Hi, I'm Soumik 👋</h1>
 <h3 align="center">A Programmer in the Making 🚀</h3>
 
-<img src="https://i.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="Hacker Kid Animation" align="center" />
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Creative Coding Animation" align="center" />
+
+
 
 ---
 
