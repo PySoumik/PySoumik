@@ -4,3 +4,10 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white" alt="vscode"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="github"/>
 </p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+![My robot drawing](assets/robot-draw.gif)
+
