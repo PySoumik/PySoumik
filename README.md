@@ -1,21 +1,32 @@
 ![logo](https://github.com/PySoumik/PySoumik/blob/main/github-header-image.png)
 
-<h1 align="center">Hi, I'm Soumik 👋</h1>
-<h3 align="center">A Programmer in the Making 🚀</h3>
+---
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Creative Coding Animation" align="center" />
+<table>
+<tr>
+<td width="50%" align="left">
 
+<h1>Hi, I'm Soumik 👋</h1>
+<h3>A Programmer in the Making 🚀</h3>
 
+- 🌱 Currently learning **Python • GitHub • VS Code**  
+- 💡 Passionate about **Coding & Problem Solving**  
+- 🎯 Goal: To become a **Pro Developer** one step at a time  
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="300" alt="Python Animation" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PySoumik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-- 🌱 Currently learning **Python • GitHub • VS Code**  
-- 💡 Passionate about **Coding & Problem Solving**  
-- 🎯 Goal: To become a **Pro Developer** one step at a time  
 
 ---
 
