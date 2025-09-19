@@ -2,42 +2,38 @@
 
 ---
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" alt="Creative Coding Animation" align="center" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
+<div style="flex: 1; padding-right: 20px;">
 
-<p align="center">
+### Hi there 👋 I'm Soumik
+
+- Learning **Python**  
+- Passionate about **coding**
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=PySoumik&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+### 🌐 Connect with me
+<a href="https://fb.com/urte4u" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
+</a>
 
+</div>
 
--  learning ** • Python**
-- Passionate about **coding**
+<div style="flex: 0 0 300px; text-align: right;">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Creative Coding Animation"/>
+</div>
 
----
-
-## 🌐 Connect with me
-
-<p align="center">
-  <a href="https://fb.com/urte4u" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
-  </a>
-</p>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td>
-
 ### **`</>` Languages**
 ![Python](https://img.shields.io/badge/Python-Beginner-lightgrey)
-
-</td>
-</tr>
-</table>
 
 ---
 
