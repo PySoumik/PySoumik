@@ -15,10 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=PySoumik&label=👀%20Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 🌐 Connect with me
-<a href="https://www.facebook.com/profile.php?id=100011333553969" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40"/>
-</a>
+
 
 </div>
 
